@@ -7,4 +7,11 @@
         <item name="colorAccent">@color/colorAccent</item>
     </style>
 
+    <!-- Dark Theme -->
+    <style name="DarkAppTheme" parent="ThemeOverlay.AppCompat.Dark.ActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimaryForDark</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDarkForDark</item>
+        <item name="colorAccent">@color/colorAccentForDark</item>
+    </style>
 </resources>
