@@ -9,7 +9,7 @@
 
     <!-- Dark Theme -->
     <style name="DarkAppTheme" parent="ThemeOverlay.AppCompat.Dark.ActionBar">
-        <!-- Customize your theme here. -->
+        <!-- Customize your dark  theme here. -->
         <item name="colorPrimary">@color/colorPrimaryForDark</item>
         <item name="colorPrimaryDark">@color/colorPrimaryDarkForDark</item>
         <item name="colorAccent">@color/colorAccentForDark</item>
